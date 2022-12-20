@@ -67,9 +67,9 @@ flutter:
 #    - assets/kia_sportage2.jpg
 #    - assets/kia_stinger2.jpg
 #    - assets/kia_picanto2.jpg
-#    - assets/wrench-icon.png
-#    - assets/car-icon.png
-#    - assets/bg-personal.jpg
+    - assets/wrench-icon.png
+    - assets/car-icon.png
+    - assets/bg-personal.jpg
 #    - assets/key.jpg
 #    - assets/tu_car.jpg
 #    - assets/new_car.png
